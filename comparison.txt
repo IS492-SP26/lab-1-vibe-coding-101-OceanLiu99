@@ -1,0 +1,5 @@
+I just typed the request "Create a Ping-Pong game using Python" in the chatbox and let them write the program.
+They both fulfill all the requirements but Copilot did better than Gemini.
+The Gemini one is black and white and won't stop until user quit the program.
+The Copilot one has better design with colors and will stop when one of the users get 5 scores.
+But the reason may relate to the sequence of using. Copilot read the Gemini's code under the same root and may did some improvement based on that.
